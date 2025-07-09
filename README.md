@@ -1,6 +1,4 @@
-<h1 align="center">Hi there, I'm Omar Abdelrahman 👨‍💻
-
-</h1>
+<h1 align="center">Hi there, I'm Omar Abdelrahman 👨‍💻</h1>
 
 ###
 
@@ -34,7 +32,7 @@
 
 ###
 
-<p align="left">🔭 Currently building:<br>Modern full-stack web apps using React.js, Flask, and ASP.NET Core — especially enhancing my e-commerce project Owl Gallery.<br><br>👯 Open to collaborate on:<br>Full-stack projects, dashboards, admin panels, or any web tool that solves real problems — especially in AI or cloud.<br><br>🤝 Looking for help with:<br>Scaling backend systems using microservices, Docker, and CI/CD pipelines.<br><br>🌱 Currently learning:<br>TypeScript, React Query, and smarter ways to integrate TensorFlow into web platforms.</p>
+<p align="left">🚀 I'm Omar, a Full Stack Software Engineer who builds powerful web apps with clean code and real-world impact.<br><br>🔭 Currently building:<br>Modern full-stack web apps using React.js, Flask, and ASP.NET Core — especially enhancing my e-commerce project Owl Gallery.<br><br>👯 Open to collaborate on:<br>Full-stack projects, dashboards, admin panels, or any web tool that solves real problems — especially in AI or cloud.<br><br>🤝 Looking for help with:<br>Scaling backend systems using microservices, Docker, and CI/CD pipelines.<br><br>🌱 Currently learning:<br>TypeScript, React Query, and smarter ways to integrate TensorFlow into web platforms.</p>
 
 ###
 
