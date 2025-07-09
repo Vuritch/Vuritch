@@ -1,5 +1,9 @@
 <h1 align="center">Hi there, I'm Omar Abdelrahman 👨‍💻</h1>
 
+<p align="center">
+  💻 Full Stack Software Engineer | React · Flask · ASP.NET Core  
+  🎯 Turning ideas into scalable web applications
+</p>
 ###
 
 <div align="center">
