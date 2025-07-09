@@ -1,4 +1,4 @@
-<h1 align="center">💻 Full Stack Explorer | Builder of Ideas
+<h1 align="center">Hi there, I'm Omar Abdelrahman 👨‍💻
 
 </h1>
 
